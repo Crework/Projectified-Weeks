@@ -21,6 +21,7 @@ For more, read [this](https://www.analyticsvidhya.com/blog/2019/06/comprehensive
 - [Texts summarizing with the help of Spacy](https://www.kaggle.com/niyamatalmass/texts-summarizing-with-the-help-of-spacy)
 - [Data Scientist’s Guide to Summarization](https://towardsdatascience.com/data-scientists-guide-to-summarization-fc0db952e363)
 - [A Gentle Introduction to Text Summarization](https://machinelearningmastery.com/gentle-introduction-text-summarization/)
+- [Automatic Text Summarization Video Tutorial](https://youtu.be/_d0OXm0dRZ4)
 
 
 
